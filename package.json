@@ -5,5 +5,5 @@
   "description": "super simple C logger",
   "keywords": ["logger", "console"],
   "license": "MIT",
-  "src": ["deps/term.c", "deps/term.h" "logger.c", "logger.h"]
+  "src": ["deps/term.c", "deps/term.h", "logger.c", "logger.h"]
 }
