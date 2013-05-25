@@ -14,7 +14,7 @@
 int
 main () {
 	logger_t *test_logger = logger_new("test");
-
+	assert(test_logger);
 	assert(test_logger->name == "test");
 	test_logger->log("log");
 	test_logger->info("info");

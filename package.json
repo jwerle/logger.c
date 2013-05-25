@@ -1,0 +1,9 @@
+{
+  "name": "logger",
+  "version": "0.0.1",
+  "repo": "jwerle/logger.c",
+  "description": "super simple C logger",
+  "keywords": ["logger", "console"],
+  "license": "MIT",
+  "src": ["logger.c", "logger.h"]
+}
